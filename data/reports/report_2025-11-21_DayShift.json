@@ -1,0 +1,21 @@
+{
+    "date": "2025-11-21",
+    "shift": "Day Shift",
+    "engineer": "John Smith",
+    "team_members": "",
+    "site_condition": "Normal Operations",
+    "urgent_notes": "",
+    "reactives": [],
+    "ppms": [],
+    "spares": [
+        {
+            "ART #": "A45AT010",
+            "Location": "BAY FIVE - H 4.4",
+            "Description": "Lever 1 ()",
+            "Category": "",
+            "Quantity": 1,
+            "Decision": "Used"
+        }
+    ],
+    "other_tasks": ""
+}

@@ -1,0 +1,735 @@
+art_number,Description,Location
+A02FS062,T-PIECE 6_6_4  P2574 (T-PIECE 6_6_4),BAY FIVE - E 1.4
+A45AT010,Lever 1 (),BAY FIVE - H 4.4
+A45AT011,Lever 2 (),BAY FIVE - H 4.3
+BBL33400,BAMBULABS - YELLOW PETG HF,3D Printer Drawer
+C04LS010,Plastic reflector SICK PL80 80 x 80mm (reflector ©),BAY THREE - E 1.2
+C04LS011,Reflector strip rm Retro-Reflex B=25mm (reflector ©),BAY ELEVEN - H 4.1
+C04LS041,SICK WL18-3P430 PNP 4p M12St (light barrier ©),BAY ONE - G 4.2
+C04LS046,SICK WTB16P-24161120A00 4p M12St (Light barrier ©),Bay One - G 3.2
+C04LS084,Plastic reflector PVC E422-62 round D=42mm with screw M5 (reflector ©),BAY THREE - E 1.1
+C04LS105,Plastic reflector SICK PL21MS06P07 40 x 19mm (light barrier ©),BAY THREE - E 2
+C04LS109,SICK WTB8-P1131S06 PNP 3p M8St (light sensor ©),BAY ONE - G 6.5
+C04LS170,SICK GL6-P0511S19 PNP 3p M8St (light barrier ©),BAY ELEVEN - J 5.1
+C11EB063,CAN bus plug 9 pol. (D-SUB PLUG+SOCKETS ©),BAY THREE - F 2.5
+C12SI011,"Glass tube fuse  5x20 3,15A_slow-blow (FUSES,-ACCESSORIES ©)",BAY THREE - H 4.2
+C14KK027-035,"Cable M12ABUw - open L=3,5m 3x0,34mm² bn, bu, bk (sensor cable ©)",BAY ONE - B 11
+C14KK027-050,"Cable M12ABUw - open L=5m 3x0,34mm² bn, bu, bk (Sensor cable ©)",BAY ONE - E 7
+C14KK027-100,"Cable M12ABUw - open L=10m 3x0,34mm² bn, bu, bk (sensor cable ©)",BAY ONE - E 5
+C14KK027-150,"Cable M12ABUw - open L=15m 3x0,34mm² bn, bu, bk (Sensor cable ©)",BAY ONE - E 3
+C14KK036,"Cable M8 Bu straight / open 3pin  L=3,5m (sensor cable ©)",BAY ONE - A 12
+C14KK037,Cable M8 Bu straight / open 3pinL=5m (sensor cable ©),BAY ONE -E 9
+C14KK038,Cable M8 Bu straight / open 3pin L=10m (sensor cable ©),BAY ONE -E 10
+C14KK039,Cable M8 Bu straight / open 3pin L=15m (sensor cable ©),BAY ONE -E 11
+C14KK043,Cable FIXCON bu str. / M12 St. str. L=1.6 m (Quatronic cable ©),BAY ONE - F 1.4
+C14KK047,Cable M8 Bu straight / open 3pol high flex L=15m (sensor cable ©),BAY ONE -E 4
+C14KK049,Cable FIXCON bu str. / M12 St. str. L=3 m (Quatronic cable ©),BAY ONE - D 9
+C14KK052,Cable FIXCON bu str. / M12 St. str. L=5m (Quatronic cable ©),BAY ONE - B 10
+C14KK053,Cable FIXCON bu str. / M12 St. str. L=10 m (Quatronic cable ©),BAY ONE - B 12
+C14KK060,"Cable power supply unit PS320 to switch 7/8"" Bu, angled, 4pin , L=0.3m, wire end sleeve (Quatronic cable ©)",BAY ONE - G 5.2
+C14KK077,Cable M8 Bu straight / open 3pinL=20m (sensor cable ©),BAY ONE -E 8
+C17NE026,DR-120-24  DC24V/5A/120W AC88-264V 50/60Hz (power supply unit ©),BAY THREE - D 2
+C17NE031,SP-320-12  DC12V/25A/300W AC88-264V 50/60Hz (power supply unit ©),BAY THREE - C 8
+C17NE034,"DRT480,  DC24V/20A, AC340-550V 50/60Hz (power supply unit ©)",BAY THREE - B 3
+C17NE035,"DRT960,  DC24V/40A, AC340-550V 50/60Hz (power supply unit ©)",BAY THREE - B 4
+C17PX005,PCX-2  2xserial 2xEthernet 3xCAN 512MB flash (control computer ©),BAY THREE - B 5
+C17SC321,Scanner accessories,BAY THREE - D 4
+C17SC330,4-fold charging station SAC4000 for batteries WT4090 + power supply unit + cable (scanner accessories ©),BAY FIVE - A 3
+C17SC470,Scanner accessories (Scanner accessories ©),BAY THREE - D 5
+C17TA005,Inductive sensor ø12mm PNP 4p M12St BES516325GE5YS4 (inductive sensor ©),BAY THREE - H 6.3
+C17TA049,"Proximity switch, mag. Reed, NPN, M8 plug connection 3 pins (inductive sensor ©)",BAY ELEVEN - G 1.1
+C21NK076,Cable patch cat.5e 1x RJ45/s (network components ©),BAY THREE - G 7.1
+C21NK099,"Switch Cisco CBS110-24T-EU 24xRJ45 1G 2xSFP 1G remanaged (network component ©)",BAY TWO - A 5
+D45RA004,Rope pulley for counterweight ENT98 (Destacker),BAY FIVE - C 2
+E04FL001,"Discharge filter109x109x21, IP54, RAL7035 (UL) (Modular rack accessories ©)",BAY FIVE - A 1
+E04FL002,"Discharge filter150x150x21, IP54, RAL7035 (UL) (Modular rack accessories ©)",BAY FIVE - A 3
+E04FL032,"Filter fan 230V DC, 67m³/h,150x150x59, IP54, RAL7035 (UL) (Modular rack accessories ©)",BAY FIVE - A 2
+E20DV008,Safety switch SK-U1Z M 1NO + 1NC (control switch ©),BAY THREE - H 3.1
+E20DV012,Actuator for SK-U1ZM BE3911452116 (control switch ©),BAY THREE - H 3.2
+E20DV051,Safety switch AZ16 zvk 1S/1Ö M20 (control switch ©),BAY THREE - H 1 + H
+E20DV052,Actuator AZ15/16-B1 (control switch ©),BAY THREE - H 3.3
+E20EM001,"MICO 4.6 power control module, 4 channels (1, 2, 4, 6A) (line safety switch ©)",BAY THREE - F 1.2
+E20ES003,Built-in switch E 221-10  16A 1S (built-in serial switch ©),BAY THREE - G 5.4
+E20PS201,Serial position switch BNS 819-D02-D12-100-10 (position switch ©),BAY THREE - A 9
+E20PS202,Serial position switch BNS 813-D03-D12-100-20-02 (position switch ©),BAY THREE - C 9
+E20SI028,NH fuse link Gr.:00 400V 63A (fuse ©),BAY THREE - H 4.3
+E20SI036,NH fuse link size: 00 400V 35A (fuse ©),BAY ELEVEN - G 2.2
+E20SO001,"Circuit breaker in casing 3pin+N +1S/1Ö 20A, sw, (UL) (circuit breaker ©)",BAY THREE - C 10
+E20SO111,"Switch disconnector 3 pins 25A, black / black 4-hole mounting (UL) (circuit breaker ©)",BAY THREE - G 6.2
+E20SO201,"Auxiliary switch, neutral (Type .LTvon 24-40A) (Circuit breaker ©)",BAY THREE - G 7.9
+E21SA201,Line safety switch 1-pin+ N C13A 6kA (line safety switch ©),BAY THREE - G 1.4
+E21SA203,Line safety switch 1-pin+ N C10A 6kA (line safety switch ©),BAY THREE - G 1.3
+E21SA204,Line safety switch 1-pin+ N C16A 6kA (line safety switch ©),BAY ELEVEN - G 2.1
+E21SA205,Line safety switch 1 pin+N C6A 6kA (line safety switch ©),BAY THREE - G 1.2
+E21SA301,Line safety switch 3-pins+ N C10A 6kA (line safety switch ©),BAY THREE - G 1.1
+E21SA303,Line safety switch 3-pins+ N C13A 6kA (line safety switch ©),BAY ELEVEN - G 6.2
+E21SA305,Line safety switch 3-pins+ N D6A 6kA (line safety switch ©),BAY THREE - F 3.2
+E21SA307,Line safety switch 3-pins C25A 6kA (line safety switch ©),BAY THREE - E 3.5
+E21SA401,Line safety switch 3-pin+ N C13A 6kA (line safety switch ©),BAY THREE - G 2.3
+E21SA402,Line safety switch 3-pins+ N C16A 6kA (line safety switch ©),BAY THREE - G 2.2
+E21SA409,Line safety switch 3-pin+ N C10A 6kA (line safety switch ©),BAY THREE - G 1.5
+E21SA501,Auxiliary switch (AS) f. Circuit breaker 1S+1Ö (Circuit breaker ©),BAY THREE - G 5.1
+E21SA601,Switch 20A 1S installation control board (flush-type switch ©),BAY THREE - G 5.2
+E21SA710,FI circuit breaker 4 pins 63A/IFN30mA/400V G TypeA (short-time delayed) (ground fault circuit interrupter ©),BAY THREE - G 2.1
+E21SA801,Auxiliary interrupter f. ground fault circuit interrupter  1S+1Ö (ground fault circuit interrupter ©),BAY THREE - G 5.3
+E26AL001,Surge diverter Typ 2 PRD40R 3P+N (line safety switch ©),BAY THREE - G 3.1
+E30RE012,Control relay 24V DC 1W RR RZL1 LED red (control relay ©),BAY THREE - G 6.3
+E30RE019,Control relay MCZ R 24 V DC 1W in casing (control relay ©),BAY THREE - H 2.2
+E30RE022,"Optocoupler terminal TOP 24VDC/48VDC 0,1A (control relay ©)",BAY THREE - H 2.4
+E30RE081,Emergency-stop control unit PNOZ s2 C 24V DC 3S/1Ö (emergency-stop relay ©),BAY THREE - E 3.4
+E30RE082,Emergency-stop control unit PNOZ s5 C 24V DC 2S/2S (emergency-stop relay ©),BAY THREE - E 3.3
+E30RE083,Emergency-stop contact extension PNOZ s7 C 24V DC 4S/1Ö (emergency-stop relay ©),BAY ELEVEN - G 3.1
+E30RE084,Emergency-stop contact extension PNOZ s7.1 C 24V DC 3S (emergency-stop relay ©),BAY THREE - E 3.1
+E30RE085,Emergency-stop contact extension PNOZ s7.2 C 24V DC 3S (emergency-stop relay ©),BAY THREE - E 3.2
+E30RE101,"Safety relay 4 NO 2 NC 3A, coil 24V DC (emergency-stop relay ©)",BAY THREE - F 2.1
+E30RE102,Socket for safety relay G7S (Not-Aus Relais ©),BAY THREE - G 7.8
+E31MS001,Relais AC-3 3kW/400V DC24V contact auxiliaire 1F (relais pilote ©),BAY THREE - F 2.2
+E31MS005,Contactor AC-3 30kW/400V DC24V auxiliary contacts 2S/2Ö (power contactor ©),BAY THREE - A 6
+E31MS501,Contactor AC-3 3kW/400V 1OE DC24V with communication interface (contactor ©),BAY THREE - G 4.3
+E31MS502,Contactor AC-3 5.5kW/400V 1OE DC24V with communication interface (contactor ©),BAY THREE - G 4.1
+E31MS505,"Contactor AC-3, 5,5kW/400V 1OE, DC24V with integrated freewheeling diode (control contactor ©)",BAY ELEVEN -H 5.1
+E31MS511,"Contactor AC-3, 5.5kW/400V, DC24V  12A  grS0, auxiliary contacts 1S/1Ö (contactor ©)",BAY THREE - G 3.2
+E31MS513,"Contactor AC-3, 11kW/400V, DC24V  25A  grS0, auxiliary contacts 1S/1Ö (contactor ©)",BAY THREE - H 5.3
+E31MS531,"Contactor 3RT2015-2FB41 AC-3, 3kW/400V 1C, DC24V with integrated freewheeling diode (control contactor ©)",BAY ELEVEN - J 3
+E31MS536,"Contactor AC-3, 7,5kW/400V 1OE, DC24V with integrated freewheeling diode, spring balancer connection (control contactor ©)",BAY ELEVEN - G 6.1
+E31WS501,Reversing contactor AC-3 3kW/400V 7A 1OE DC24V with communication interface (contactor ©),BAY THREE - F 3.1
+E31WS521,"Reversing contactor AC-3, 3kW/400V 7A, 1OE, DC24V with integrated freewheeling diode spring balancer connection (contactor ©)",BAY ELEVEN - E1
+E32GA005,Surge arrester Dehnguard DG TNS 275 FM (Surge protection),BAY ELEVEN - G1.2
+E35ZU103,Motor circuit breaker 1.6-2.5A (motor circuit breaker ©),BAY THREE - F 2.4
+E36HS501,Auxiliary switch SIRIUS crosswise 1NO+1NC (motor circuit breaker ©),BAY THREE - G 5.6
+E36LM110,Circuit breaker motor protection 2.8-4A +auxiliary contact (rotary drive) (motor circuit breaker ©),BAY THREE - F 2.6
+E36LM411,"Circuit breaker transformer protection 4,5-6,3, spring balancer connection (motor protection switch ©)",BAY ELEVEN - J 7.1
+E36LM501,"Line switch SIRIUS, motor protection 0.7-1A (motor circuit breaker ©)",BAY THREE - -F 5.1
+E36LM503,"Line switch SIRIUS, motor protection 1.1-1.6A (motor circuit breaker ©)",BAY THREE - F 7.1
+E36LM505,"Line switch SIRIUS, motor protection 1.8-2.5A (motor circuit breaker ©)",BAY THREE - -F 5.2
+E36LM506,"Line switch SIRIUS, motor protection 2.8-4A (motor circuit breaker ©)",BAY THREE - F 6.2
+E36LM508,"Line switch SIRIUS, motor protection 7-10A (motor circuit breaker ©)",BAY THREE - F 3.3
+E36LM509,Circuit breaker SIRIUS motor protection 9-12.5A (motor circuit breaker ©),BAY THREE - F 4.1
+E36LM551,"SIRIUS circuit breakers, motor protection 0.7-1A, gr S0, spring clamp (Motor protection switch ©)",BAY ELEVEN - J 2
+E36LM553,"SIRIUS circuit breakers, motor protection 1.1-1.6A, gr S0, spring clamp (Motor protection switch ©)",BAY ELEVEN - J 7.2
+E36LM554,"SIRIUS circuit breakers, motor protection 1.4-2A, gr S0, spring clamp (Motor protection switch ©)",BAY ELEVEN - G 7.2
+E40SE022,Brake resistance BW100-006 100 Ohm 600W (FU accessories ©),BAY TWO - A 2
+E40SE031,Output throttle HD001 (FU accessories ©),BAY THREE - J 4.2
+E40SE045,Brake resistance BW100-006 100-T (FU accessories ©),BAY TWO - A 1
+E40SE057,"Ready made Resolver cable with 2 plugs RH.M, 10m (sensor cable ©)",BAY ONE - D 3
+E40SE058,"Ready-made, brake motor cable with 1 plug SB11 10m (sensor cable ©)",BAY ONE - J 5
+E40SE107,Frequency converter Movidrive B MDX61B0030-5A3-4-0T (frequency converter ©),BAY FIVE - A 4
+E40SE115,Control device DBG60B-10 (FU accessories ©),BAY THREE - F 4.4
+E40SE121,Encoder connection DER11B (FU accessories ©),BAY THREE - F 1.1
+E40SE122,Feldbus interface DFP21B (FU-accessories ©),BAY THREE - C 4
+E40SE203,"Converter Movitrac B MC07B0011-5A3-4-00 1,1kW (frequency converter ©)",BAY FIVE - B 3
+E40SE204,"Converter Movitrac Movitrac B  MC07B0015-5A3-4-00 1,5kW (frequency converter ©)",BAY FIVE - B 4
+E40SE211,Control device FBG11B f. Movidrive a. Movitrac B (FU accessories ©),BAY THREE - A 7
+E40SE212,Interface converter USB11A f. Movidrive a. Movitrac B (FU accessories ©),BAY ELEVEN -D 3
+E40SE213,Front option communication FSC11B  f. Movidrive and Movitrac B (FU accesssories ©),BAY ELEVEN - D 2
+E40SE291,"Converter Movimot D-assembly  0,37kW (IEC / UL) (frequency converter ©)",BAY FIVE - B 2
+E40SE295,Converter Movimot-D Feldmont. 1.5 kW (IEC / UL) (frequency converter ©),BAY ELEVEN - D4
+E45GB003,Light bulb E14 24V/5W (light bulb ©),BAY THREE - H 2.6
+E45SE003,"Signal lamp SE yellow, AP (signal lamp ©)",BAY THREE - H 4.1
+E45SH005,"Signal horn KLH AV230V 50Hz IP43, 88-92dB (A) (acoustic signal device ©)",BAY THREE - H 6.1
+E46LM105,Filament bulb 24V/5W (light bulb ©),BAY THREE - H 2.5
+E46LM202,"Signal tower permanent light element LED yellow, 24V AC/DC (signal lamp ©)",BAY ELEVEN - E5
+E47AA407,Key switch button  0-1 (button ©),BAY THREE - F 2.3
+E47AA409,Key switch 0-1 position 0 removable (Ronis) (switch ©),BAY THREE - G 3.3
+E47AG022,Lamp socket with integrated LED red (lamp ©),BAY THREE - H 2.3
+E47AG031,Lamp socket with integrated LED green floor mounting (lamp ©),BAY THREE - G 5.7
+E47AG033,Lamp socket with integrated LED white floor mounting (lamp ©),BAY THREE - G 5.5
+E47AG707,"Encapsulation 2 command points, emergency stop tamper-proof  1S/1Ö, signal lamp red (button ©)",BAY THREE - D 1
+E47TE201,Switch elements for floor fittings 1S (surface-type device accessoires ©),BAY THREE - G 7.6
+E47TE202,Switch element for floor fitting 1Ö (surface-type device accessoires ©),BAY THREE - G 7.7
+E47TE203,Switch elements for front plate mountings 1S (flush-type device accessoires ©),BAY THREE - G 7.2
+E47TE204,Switch elements for front plate mountings 1Ö (flush-type device accessoires ©),BAY THREE - G 7.3
+E47TE205,Switch elements for front plate mountings 1S+1S (flush-type device accessoires ©),BAY THREE - G 7.4
+E47TE208,"Switch element f. front board mounting 1Ö, with installation monitoring (Flush-type device accessories ©)",BAY THREE - G 7.5
+E50NE071,Sitop modular 20 DC24V/20A AC 3x400-500V (power supply unit ©),BAY THREE - C 5
+E50NE301,"Switched mode power supply 3PH, PRO ECO3 960W 24V 40A (power supply ©)",BAY FIVE - C4
+E50NE306,"Switched mode power supply 1PH, PRO ECO 120W 24V 5A (power supply ©)",BAY THREE - B 2
+E50NE312,"Switched mode power supply 3PH, PRO MAX3 960W 24V 40A  (power supply ©)",BAY ELEVEN  - A1
+E51DA302,Digital output 32A S7 300 (PLC input/output unit ©),BAY THREE - C 3
+E51DE302,Digital input 32E S7 300 (PLC input/output unit ©),BAY THREE - C 2
+E51ET001,"Interface module IM151, standard (max. 63 Module) (PLC input/output unit ©)",BAY THREE - F 7.2
+E51ET011,Terminal module TM-P15C23-A1 (for power module) (PLC input/output unit ©),BAY THREE - G 6.1
+E51ET012,Power module  PM-E  24V DC (PLC input/output unit ©),BAY THREE - G 3.4
+E51ET018,DP controller board for IM151-7 CPU (PLC input/output unit ©),BAY THREE - F 6.3
+E51ET022,Terminal module TM-P15C26-A1 (for 4-E/A electronic module) (PLC input/output unit ©),BAY THREE - A 8
+E51ET032,Elektronic module for ET 200S  4 DI DC 24V (PLC input/output unit ©),BAY THREE - G 2.4
+E51ET035,Elektronic module for ET 200S  8 DI DC 24V (PLC input/output unit ©),BAY THREE - G 3.6
+E51ET042,Elektronic module for ET 200S  4 DO DC 24V 0.5A (PLC input/output unit ©),BAY THREE - G 4.2
+E51ET045,Elektronic module for ET 200S  8 DO DC 24V 0.5A (PLC input/output unit ©),BAY THREE - G 3.5
+E51FR304,Front connector 362 with spring-type contacts 40 pins (PLC accessories ©),BAY THREE - H 5.2
+E51KO303,Communication processor CP343-1 LEAN Ethernet TCP/IP (PLC central unit ©),BAY THREE - C 1
+E51OP008,Touch panel TP177B 256 color-display (PLC accessories ©),BAY THREE - B 2
+E51OP011,"Touch panel MP277, 8"" (PLC accessories ©)",BAY THREE - B 1
+E51PB401,Buffer battery f. CPU416 (PLC accessories ©),BAY 5 - B 6
+E51SM003,Repeater  RS485 (PLC accessories ©),BAY THREE - F 6.1
+E51SP001,"ET200SP, Profibus interface module IM 155-6DP H F, max 32 P-modules (incl. Profibus connector) (PLC input / output module ©)",BAY ELEVEN - J 4
+E51SP002,"ET200SP, PROFINET interface module IM 155-6DP standard, max 32P modules (incl. Bus adapter 2x RJ45)(PLC input/output unit  ©)",BAY ELEVEN - G 7.1
+E51SP021,"ET200SP, BaseUnit BU15-P16 + A10 + 2D Type A, new load group (push-in terminals) (PLC power supply unit ©)",BAY ELEVEN - H 1.1
+E51SP022,"ET200SP, BaseUnit BU15-P16 + A10 + 2B Type A, new load group (push-in terminals) (PLC power supply unit ©)",BAY ELEVEN - H 2.1
+E51SP031,"ET200SP, digital input module DI 8X 24VDC Standard (PLC input / output unit ©)",BAY ELEVEN - H 6.2
+E51SP041,"ET200SP, digital output module DO 8X 24VDC/0,5A Standard (PLC input / output unit ©)",BAY ELEVEN - H 6.1
+E51ZG215,ET200S IM151-8 PN/DP CPU (PLC central unit ©),BAY THREE - C 7
+E51ZG301,CPU 312C (PLC central unit ©),BAY THREE - C 6
+E51ZG319,"CPU 319-3 PN/DP 1,4MByte (PLC central unit ©)",BAY FIVE- B 6
+E52ST009,Profibus plug with PG connection (PLC accessoires ©),BAY THREE - F 4.2
+E53SM001,PROFIBUS Compact Repeater 90° (SPS accessories ©),BAY THREE - F 4.3
+E55LS020,"One-way light barrier WS/WE27-3P2430, PNP, M12 4 pins (range 0-35m) (light barrier ©)",BAY ONE -G 5.1
+E55LS251,Multi-jet safety light barrier active/passive type: M4000 Advanced A/P (light barrier ©),BAY ONE - H 5
+E55LS252,Deflection unit type: M4000 passive (mirror deflection) (light barrier ©),BAY ONE - H 4
+E55LS253,Signal connection box for muting  IP65 with M4000 advanced series (light barrier ©),BAY ONE - J 3
+E55LS254,Safety switch RLY3-OSSD100 (light barrier ©),BAY ONE - G 2.1
+E55LS255,"Connecting line 0,6m light barrier-signal connection box M12 socket, M12 connector 5-pins (light barrier ©)",BAY ONE - G 6.4
+E55LS257,Connecting line with socket 10m signal connection box control board  M26 12 pins (light barrier ©),BAY ONE - J 4
+E55LS259,"Connecting line 2m M12 socket, M12 connector 4-pins (light barrier ©)",BAY ONE - G 7.2
+E55LS264,Mounting parts f. opto-electronic safety devices (PE 4 units) (light barrier ©),BAY FIVE - H 7.2
+E55LS268,Programming cable M8 4poles/SubD 9poles (light barrier ©),BAY ONE - C 2
+E55RL008,Light barrier WL 23-2P2430 PNP 4p M12St (light barrier ©),BAY ONE - G 3.1
+E58AA003,Power supply unit Quatronic 3ph./380-480V/50-60Hz/2x160W/440W/ IP67/-20 -40°C (motor control ©),BAY FIVE - B 5
+E58AA004,"Actor/sensor box Quatronic with 7/8 pin/0,8m cable (motor control ©)",BAY ONE - G 7.1
+E58AA009,AdControl - Interroll - Interfacemodule adapter EC300 to EC310/EC5000,BAY THREE - D 6
+E65AM814,"Plastic cable gland, M20 straight, strain relief, black (UL) (installation hose ©)",BAY FIVE - J 5.4
+H01CA005,Socket connector 30-pin with bracket BL-I/O 3.5/30F SW (I/O adapter ©),BAY THREE - G 5.8
+H01CA007,"CANIO V2.1 (2x CAN, 2x serial, 16 input, 8 output) (I/O adapter ©)",BAY THREE - E 4.2
+H01CA008,"CANIO extended (2x CAN, 2x serial, 16 input, 32 output) (I/O adapter ©)",BAY THREE - E 5
+H01SB801,ILT V5 N275  2 sensors (sensor unit V5 ©),BAY ONE - H 2
+H01SB802,ILT V5 N325  2 sensors (sensor unit V5 ©),BAY ONE - H 3
+H01SB803,ILT V5 N375  3 sensors (sensor unit V5 ©),BAY ONE - J 2
+H01SB804,ILT V5 N425  3 sensors (sensor unit V5 ©),BAY ONE - K 1
+H01SB806,ILT V5 N525  4 sensors (sensor unit V5 ©),BAY ONE - J 1
+H01SB808,ILT V5 N625  5 sensors (sensor unit V5 ©),BAY ONE - H 1
+H01SC265,"Sick line CLV430-60010 oscillating mirror, RS232/422/485 (bar code scanner ©)",BAY THREE - A 3
+H01SC318,"Sick line CLV420-2010S02, RS232/422/485 (bar code scanner ©)",BAY THREE - A 2
+H01SC320,Access Point Symbol AP-5131 + accessories (scanner accessories ©),BAY THREE - D 3
+H01SC421,"Sick line CLV650-0000, RS232/422/485 (barcode scanner ©)",BAY THREE - A 4
+H01SC472,"Sick line CLV630-0000, RS232/422/485 (barcode scanner ©)",BAY THREE - A 1
+H01SC489,"Sick line CLV620-2000S01, RS232/422/485 configured (barcode scanner ©)",BAY THREE - A 5
+H01VA007,"Mini Terminal 2 V1.1  for ILT,SB, M-, L-, S-PEMAT (installation tools ©)",WORKSHOP
+H07DB045-05,"Cable network Cat5e SFTP 2x8pRJ45 L=0,5m (network component ©)",BAY ONE - F 1.2
+H07DB045-10,Cable network Cat5e SFTP 2x8pRJ45 L=10m (network component ©),BAY ONE -E 1
+H07DB045-2,Cable network Cat5e SFTP 2x8pRJ45 L=2m (network component ©),BAY ONE - F 5.2
+H07DB045-3,Cable network Cat5e SFTP 2x8pRJ45 L=3m (network component ©),BAY ONE - F 5.3
+H07DB045-5,Cable network Cat5e SFTP 2x8pRJ45 L=5m (network component ©),BAY ONE - F 6.1
+H07NE010,Network cable KGDo thre / open L=5m (network cable ©),BAY ONE - C 9
+H07NE019,"Network cable VDE / plug for small appliances L=1,8m (network cable ©)",BAY ONE - F 4.1
+H07OK034-10,"Cable, MV FESTO MEBH / open, L=10m (valve cable ©)",BAY ONE - A 10
+H07OK034-10H,"Cable, MV FESTO MEBH (C 8mm) / open, L=10m 3x0,75mm² 1,2,gn-ye (valve cable ©)",BAY ONE - A 9
+H07OK034-15,"Cable, MV FESTO MEBH / open, L=15m (valve cable ©)",BAY ONE - C 1
+H07OK034-5,"Cable, MV FESTO MEBH / open, L=5m (valve cable ©)",BAY ONE - D 5
+H07OK036,"Cable, MV segmentation / open, L=5m (valve cable ©)",BAY ONE - F 1.1
+H07OK036-10,"Cable, MV segmentation / open, L=10m (valve cable ©)",BAY ONE - C 7
+H07OK036-15,"Cable, MV segmentation / open, L=15m (valve cable ©)",BAY ONE - C 8
+H07PC021,"Cable, RS232 PC scanner maintenance 15p CLV6xx, 420, 210,...L=5m (data cable 2 ©)",WORKSHOP
+H07PC027,"Cable, RS232 PC - PCX/P1000/CANIO/Linecontr./VAS  L=3m (data cable 2 ©)",BAY ONE - B 7
+H07PC034,"Connection cable, converter RS-232 SubD (9-pin) to USB straight (adapter cable ©)",Temp.Allocation
+H07PI096-015,"Cable PBL4  bar connection L=0,15m (PBL cable ©)",BAY ONE - F 5.1
+H07PI109,"Cable PBL4 rail 3xPBL, L=1,9m (PBL cable ©)",BAY ONE - F 7.3
+H07PI126-10,Cable PBLC to rail L=10m straight left (PBL cable ©),BAY ONE - B 9
+H07PI126-15,Cable PBLC to rail L=15m straight left (PBL cable ©),BAY ONE - D 1
+H07PI126-7,Cable PBLC to rail L=7m straight left (PBL cable ©),BAY ONE - D 2
+H07PI127-10,Cable PBLC to rail L=10m straight right (PBL cable ©),BAY ONE - C 10
+H07PI127-15,Cable PBLC to rail L=15m straight right (PBL cable ©),BAY ONE - D 4
+H07PI127-7,Cable PBLC to rail L=7m straight right (PBL cable ©),BAY ONE - B 8
+H07PI130,"Cable PBLC T-piece, L=0,1m (PBL cable ©)",BAY ONE - F 4.3
+H07SD050,"Cable, RS485+Ver+trigger CLV410 network L=4m (scanner cable ©)",BAY ONE - A 2
+H07SD052,"Cable, 2x scanner network CLV41x to P1000, L=1.2m (scanner cable ©)",BAY ONE - F 4.4
+H07ST019-15,"Cable, ESRB extension (supply only) L=1.5m (accumulation roller conveyor cable ©)",BAY ONE - F 2.1
+H07ST071,"Cable, one-sided feed+signal for ESRB, L=0.1m (pitot tube cable ©)",BAY ONE - G 6.2
+H07ST185,"Cable, ILT V3.x  (MicroFit 8p.) ESRB function, LTT540 (accumulation roller conveyor cable ©)",BAY ONE - F 2.4
+H07ST186,"Cable, ILT V3.x  (MicroFit 8p.) ESRB function, LTT660 (accumulation roller conveyor cable ©)",BAY ONE - F 3.4
+H07ST187,"Cable, ILT V3.x (ST 8pol) / open, L=3,5m (sensor cable ©)",BAY ONE - A 7
+H07ST188,"Cable, ILT V3.x (ST 8pol) / open, L=5m (sensor cable ©)",BAY ONE - F 3.1
+H07ST189,"Cable, ILT V3.x (ST 8pol) / open, L=10m (sensor cable ©)",BAY ONE - A 5
+H07ST190,"Cable, ILT V3.x (ST 8pol) / open, L=15m (sensor cable ©)",BAY ONE - A 6
+H07ST190-20,"Cable, ILT V3.x (ST 8pol) / open, L=20m (sensor cable ©)",BAY ONE - A 3
+H07ST192-035,"Cable, ILT V3.x extraction w. T-piece, L=3.5 (accumulation roller conveyor cable ©)",BAY ONE - F 2.3
+H07ST192-05,"Cable, ILT V3.x extraction w. T-piece, L=5m (accumulation roller conveyor cable ©)",BAY ONE - F 7.1
+H07ST192-10,"Cable, ILT V3.x extraction w. T-piece, L=10m (accumulation roller conveyor cable ©)",BAY ONE - C 11
+H07ST192-15,"Cable, ILT V3.x extraction w. T-piece, L=15m (accumulation roller conveyor cable ©)",BAY ONE - C 4
+H07ST192-20,"Cable, ILT V3.x extraction w. T-piece, L=20m (accumulation roller conveyor cable ©)",BAY ONE - C 5
+H07ST192-30,"Cable, ILT V3.x extraction w. T-piece, L=30m (accumulating roller conveyor cable ©)",BAY ONE - C 6
+H07ST195,"Cable, ILT V3.x  (MicroFit 8p.) ESRB function, LTT1400 (accumulation roller conveyor cable ©)",BAY ONE - F 4.5
+H07ST197,"Cable, ILT V3.x - M8 connector, L=0,25m (Sensor cable ©)",BAY ONE - G 6.3
+H07ST211-035,"Cable, Quatronic signal input from PLC, L=3.5m (Quatronic cable ©)",BAY ONE - D 8
+H07ST211-05,"Cable, Quatronic signal input from PLC, L=5m (Quatronic cable ©)",BAY ONE - D 10
+H07ST211-10,"Cable, Quatronic signal input from PLC, L=10m (Quatronic cable ©)",BAY ONE - D 7
+H07ST211-15,"Cable, Quatronic signal input from PLC, L=15m (Quatronic cable ©)",BAY ONE - D 6
+H07ST212,"Cable, Quatronic programming cable, L=2.5 (Quatronic cable ©)",BAY ONE - C 3
+H07ST213-035,"Cable, Quatronic error message, L=3.5 (Quatronic cable ©)",BAY ONE - F 1.3
+H07ST213-05,"Cable, Quatronic error message, L=5m (Quatronic cable ©)",BAY ONE - B 3
+H07ST213-10,"Cable, Quatronic error message, L=10m (Quatronic cable ©)",BAY ONE - B 1
+H07ST213-15,"Cable, Quatronic error message, L=15m (Quatronic cable ©)",BAY ONE - B 4
+H07ST213-20,"Cable, Quatronic error message, L=20m (Quatronic cable ©)",BAY ONE - A 11
+H07ST224,"Cable, ILT V3.x  (MicroFit 8p.) ESRB function, LTT720 (accumulation roller conveyor cable ©)",BAY ONE - K 2
+H07ST226,"Cable, ILT V3.x (MicroFit 8p.) ESRB function, LTT900 (jam roller cable ©)",BAY ONE - F 5.4
+H07ST230-10,"Cable, ILT V3.x extraction to Quatronic incl. offset., L=10m (Quatronic cable ©)",BAY ONE - A 8
+H07ST230-2,"Cable, ILT V3.x extraction to Quatronik incl. offset., L=2m (Quatronic cable ©)",BAY ONE - F 6.2
+H07ST230-5,"Cable, ILT V3.x extraction to Quatronik incl. offset., L=5m (Quatronic cable ©)",BAY ONE - F 6.3
+H07ST231,"Cable, ILT V3.x  (MicroFit 8p.) ESRB function, LTT2300 (accumulation roller conveyor cable ©)",BAY ONE - B 2
+H07ST233-035,"Cable, ILT V3.x injection w. MNL, L=3,5m(accumulation roller conveyor cable ©)",BAY ONE - D 12
+H07ST234,"Cable, ILT V3.x signal - insulation device, L=0.1m (accumulation roller conveyor cable ©)",BAY ONE - F 4.2
+H07ST239-10,"Cable, connection of 2  ILT V3.x, L=10m (sensor cable ©)",BAY ONE - B 6
+H07ST239-15,"Cable, connection of 2  ILT V3.x, L=15m (sensor cable ©)",BAY ONE - C 12
+H07ST239-20,"Cable, connection of 2  ILT V3.x, L=20m (sensor cable ©)",BAY ONE - D 11
+H07ST239-35,"Cable, connection of 2  ILT V3.x, L=3.5m (sensor cable ©)",BAY ONE - F 3.3
+H07ST239-5,"Cable, connection of 2  ILT V3.x, L=5m (sensor cable ©)",BAY ONE - F 7.2
+H07ST248-10,"Cable, connection of 3  ILT V3.x, L=10m (sensor cable ©)",BAY ONE - B 5
+H07ST248-35,"Cable, connection of 3  ILT V3.x, L=3.5m (sensor cable ©)",BAY ONE - F 3.2
+H07ST248-5,"Cable, connection of 3  ILT V3.x, L=5m (sensor cable ©)",BAY ONE - F 2.2
+H07ST257-10,"Cable, connection of 4  ILT V3.x, L=10m (sensor cable ©)",BAY ONE - A 4
+L01MV002,Simatic 24V 5m Festo (valve cable ©),BAY ONE -E 6
+L05SH012,Lamp yellow DC24V with SH4 SE (signal lamp ©),BAY THREE - E 5.1
+L05SH013,Lamp blue DC24V with SH4 SE (signal lamp ©),BAY ELEVEN - J 1.1
+L05SH023,Emergency-stop Siemens 1S/1Ö/1signal lamp red + mounting (button ©),BAY ELEVEN - E 4
+L05SH025,Connection element Siemens lamp tower FT+ (button ©),BAY THREE - H 6.2
+L05SH026,Illuminated push-button green Siemens 1S with SH8 (button ©),BAY THREE - H 7.1
+L05SH027,Switch 0-1 Siemens 1S with SH8 (button ©),BAY THREE - J 1
+L05SH028,Illuminated push-button white Siemens 1S with SH8 (button ©),BAY THREE - E 4.1
+L05SH055,Button Siemens 1S with SH8 (button ©),BAY THREE - J 2 + J
+L05SH061,"Emergency stop, Siemens 1NO/1NC with LM red, with SH22-2 (button ©)",BAY ELEVEN - C 1
+L05SH062,"Illuminated push-button green Siemens 1S LM green, with SH22-1  (button ©)",BAY ELEVEN - F 5
+L05SH071,"Signal lamp red, Siemens, with SH22-1 (push button ©)",BAY ELEVEN - F 1
+L05SH075,"Signal lamp green, Siemens, with SH22-1 (push button ©)",BAY ELEVEN - F 4
+L05SH076,"Signal lamp blue, Siemens, SH22-1 (button ©)",BAY ELEVEN - E 3
+L05SH090,Illuminated push-button blue Siemens 1S LM SH22-1 (button ©),BAY ELEVEN - E 2
+L05SH099,"Signal lamp Siemens connecting element, with SH22-1 (signal lamp ©)",BAY ELEVEN - F 3
+L05SH103,"Emergency stop with acknowledgment key LM blue, Siemens, with SH22-4 (completed circuit ©)",BAY ELEVEN - C 2
+L05SH584,"Illuminatet pushbutton with raised button green 1S, SH4 (Operating elements-combination ©)",BAY THREE - H 7.1
+L05SH606,"Push-button black 1S_2OE, SH4 (operating elements combination ©)",BAY FIVE - D 1
+M01DR500,MOT-0.13-880-CE (motor - three-phase/direct current ©),BAY TWO - G 2
+M01DR504,MOT-0.13-1060-UL-FU (motor - three-phase/direct current ©),Bay Two - G 1
+M01DR504,MOT-0.13-1060-UL-FU (motor - three-phase/direct current ©),BAY TWO - G 1
+M01DR505,"MOT-0,25-1360-CE (motor - three-phase/direct current ©)",BAY TWO - G 3
+M01DR510,"MOT-0,37-1644-UL (AC/DC motor ©)",BAY TWO - G 4
+M01SI004,"SCG-100-0,75-14,33-IE3-CE-UL-CSA WA30 DRN80M4 (worm gear/motor ©)",BAY TWELVE - C 1
+M01SI007,"SCG-140-0,75-10,25-IE3-CE-UL-CSA (worm gear/motor ©)",BAY TWELVE - C 2
+M01SI094,"SCG-103-1,5-14,24-CE-UL-CSA-IE3 (worm gear/motor ©)",BAY EIGHT - E 1
+M01SI669,"SCG-138-0,37-10,25-Z-IE3 (worm gear/motor ©)",BAY TWELVE - C 3
+M01SI697,"SCG-99-0,37S-WA20-14,33-IE3-M1A-T00 (Worm gear/-motor ©)",Workshop - R2S4.5
+M01SI698,"SCG-138-0,37-10,25-CE-UL-CSA-IE3 WA20 DRN71M4",BAY ONE - L 3
+M01SN129,"SCG-96-0,37-14,33 (worm gear/motor ©)",BAY ELEVEN - L 1
+M01SN214,SCG-140-0.75-10.25-CE/UL/CSA-IE2 (worm gear/motor  ©),BAY ONE - L 1
+M01SN215,"SCG-88-0,75-16,33-Z-CE/UL/CSA-IE2 (worm gear/motor ©)",BAY EIGHT - F 3
+M01SN217,SCG-175-0.75-8.2-Z-CE/UL/CSA-IE2 (worm gear/motor ©),BAY EIGHT - F 2
+M01SN223,SCG-42-0.55-32.48-CE/UL/CSA-IE2 (worm gear/motor  ©),BAY EIGHT - E 2
+M01SN277,"SCG-50-0,37-27,5 (worm gear/motor ©)",BAY THREE - L 3
+M01SN297,SCG-168-0.37-8.2-Z (worm gear/motor ©),BAY THREE - K 2
+M01SN306,SCG-135-0.37-10.25 (worm gear/motor ©),BAY FIVE L 3
+M01SN362,"SCG-71-0,37-19,50 CE/UL/CSA (worm gear/motor ©)",BAY THREE - L 2
+M01SN399,"SCG-168-0,37-8,2-CE/UL/CSA(worm gear/motor ©)",BAY THREE - K 3
+M02AE044,Universal joint shaft DIN808-W-32-K20-86-E (cardan shaft ©),BAY FIVE - F 3.4
+M02AE204,"Tension set TLK110-25-34 (tension set, shaft hub joint ©)",BAY FIVE - J 3.6
+M02FA021,BELLOWS D20 L86 (bellows ©),BAY FIVE - F 5.2
+M02GF200,GFR-200-400 Stabilus (gas spring ©),BAY TWO - A 4
+M02KG014,Spherical joint ø19 M14x1.5 (joint),BAY FIVE - F 7.3
+M02KR005,Poly-V belt PJ 6 L381 (FUZ-FUS) (belt/belts ©),BAY ELEVEN  - G 5
+M02KR041,Poly-V belt PJ7 L=1222  (belt/belts ©),BAY SEVEN - E 2
+M02KR042,Poly-V belt PJ7  L=1428 endless (belt/belts ©),BAY ELEVEN - G 4
+M02KR045,Poly-V belt PJ7 L1600 endless (belt/belts ©),BAY SEVEN - E 6
+M02KR049,Poly-V-belt PJ18 L 1222 (belt/belts ©),BAY SEVEN - E 1
+M02KR050,Poly-V belt PJ 6 L=406 (belt/belts ©),BAY SEVEN - F 7.1
+M02KR051,Poly-V belt PJ 6 L=432 (belt/belts ©),BAY SEVEN - F 7.2
+M02KR150,Poly-V Flexonic belt 389 PJ 8 (belt/belts ©),BAY FIVE - J 2.5
+M02KR800,Poly-V belt PJ2 L263 endless Flexonic (belt/belts ©),BAY SEVEN - K 1
+M02KR801,Poly-V belt PJ2 L=316 endless Flexonic (belt/belts ©),BAY SEVEN - G 3 + G
+M02KR802,Poly-V belt PJ2 L=376 endless Flexonic (belt/belts ©),BAY SEVEN - G 5.2
+M02KR913,Poly-V Flexonic belt 355 PJ 8 (belt/belts ©),BAY SEVEN - F 6.2
+M02KR926,Poly-V belt PJ6 L=362 endless (belt/belts ©),BAY SEVEN - G 5.1
+M02KR930,Poly-V belt PJ7 L1473 endless (belt/belts ©),BAY SEVEN - E 5
+M02KR931,Poly-V belt PJ 6 L=356 (belt/belts ©),BAY SEVEN - F 6.1
+M02KR932,Poly-V belt PJ7 L1549 endless (belt/belts ©),BAY SEVEN - E 3
+M02PF663,PFR-6x6x63-DIN6885A (flat key ©),BAY FIVE - J 3.1
+M02PF675,PFR-6x6x70-DIN6885A (flat key ©),BAY FIVE - J 2.6
+M02PF875,PFR-8x7x70-DIN6885A (flat key ©),BAY SEVEN - F 4.2
+M03IF002,LR-L625-D50-Z-A07-T00-G (carrier roller ©),BAY TWO - E 2
+M03IF397,Conveyor roller steel N397 ø50 enhanced M8 both sides (carrier roller ©),BAY TWO - C 3
+M03IF398,Steel conveyor roller N5177 ø50 enhanced M8 both sides (carrier roller ©),BAY FOUR - C 3
+M03IF426,LR-L425-D50-Z-A06-T00 (carrier roller ©),BAY FOUR - G 4
+M03IF525,LR-L525-D40-Z-A06-T00 (carrier roller ©),BAY FOUR - B 6
+M03IF526,LR-L525-D50-Z-A01-T00 (carrier roller ©),BAY FOUR - B 1
+M03IF625,LR-L625-D40-Z-A06-T00 (carrier roller ©),BAY FOUR - C 2
+M03IF626,LR-L625-D50-Z-A06-T00 (carrier roller ©),BAY FOUR - B 3
+M03IF833,LR-L877-D40-Z-A06-T00 (carrier roller ©),BAY TWO - F 1
+M03IK304,SMR-L425-D50-K-2RR-I6-T00 (EC310),BAY TWELVE - A 2
+M03IK917,SMR-L425-D50-K-2RR-I2-T00 (carrier roller ©),BAY FOUR - G 1
+M03IK919,SMR-L625-D50-K-2RR-I2-T00 (carrier roller ©),BAY FOUR - G 3
+M03IK966,SMR-L425-D50-K-2RR-I10V-T00-35W (Carrier roller ©),BAY FOUR - G 1
+M03IL402,LR-L425-D50-Z-3RR2PV-A00-T00 (carrier roller ©),BAY TWELVE - B 4
+M03IL403,LR-L100-D40-Z-1RR-A01-T00 (carrier roller ©),BAY ELEVEN - J 6.1
+M03IL549,LR-L425-D50-Z-2RR-A01-T00 (carrier roller ©),BAY FOUR - C 4
+M03IL612,LR-L525-D50-Z-2RR-A01-T00 (carrier roller ©),BAY FOUR - B 5
+M03IL701,LR-L725-D40-Z-2RR-A01-T00-G (carrier roller ©),BAY FOUR - B 4
+M03IL974,LR-L525-D50-Z-A08-T00 (carrier roller ©),BAY TWELVE - B 3
+M03IL975,LR-L625-D50-Z-A03-T00 (carrier roller ©),BAY FOUR - B 2
+M03IO063,LR-L63-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 12
+M03IO098,LR-L98-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 11
+M03IO133,LR-L133-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 10
+M03IO167,LR-L167-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 9
+M03IO202,LR-L202-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 8
+M03IO237,LR-L237-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 4
+M03IO271,LR-L271-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 7
+M03IO275,LR-L275-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 6
+M03IO306,LR-L306-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 5
+M03IO325,LR-L325-D50-Z-2PV-A00-T00 (carrier roller ©),BAY FOUR - D 4
+M03IO340,LR-L340-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 3
+M03IO375,LR-L375-D50-Z-2PV-A00-T00 (carrier roller ©),BAY FOUR - D 3
+M03IO410,LR-L410-D50-Z-2PV-A00-T00 (carrier roller ©),BAY TWO - B 2
+M03IO424,LR-L425-D50-Z-4PV-A00-T00 (carrier roller ©),BAY TWO - C 2
+M03IO425,LR-L425-D50-Z-2PV-A00-T00 (rollers),BAY TWO - H
+M03IO426,LR-L425-D50-Z-A00-T02 (carrier roller ©),BAY TWO - C 1
+M03IO427,LR-L425-D50-Z-2RR2PV-A00-T00 (roller),BAY FOUR - E 6
+M03IO428,LR-L425-D50-Z-3RR2PV-A00-T00 (carrier roller ©),BAY TWO - B 1
+M03IO432,LR-L425-D50-Z-2PV-A00-T02 (carrier roller ©),BAY TWO - E 1
+M03IO443,LR-L443-D50-Z-A01-T00 (carrier roller ©),BAY TWELVE  - B 2
+M03IO525,LR-L525-D50-Z-2PV-A00-T00 (carrier roller ©),BAY FOUR - C 1
+M03IO526,LR-L525-D50-Z-A00-T02 (carrier roller ©),BAY TWO - F 6
+M03IO624,LR-L625-D40-Z-A09-T00 (carrier roller ©),BAY FOUR - C 6
+M03IO625,LR-L625-D50-Z-2PV-A00-T00 (carrier roller ©),BAY FOUR - J 1
+M03IO627,LR-L625-D50-Z-2RR2PV-A00-T00 (carrier roller ©),BAY FOUR - C 5
+M03IO981,Roller N425 ø50 axis ø14 divided Poly-V both sides (carrier roller ©),BAY FOUR - B 9
+M03IR048,SMR-L425-D50-Z-2PV-I10V-T00-35W (Carrier roller ©),BAY FOUR - D 2
+M03IR304,SMR-L425-D50-Z-2PV-I6-T00 (EC310),BAY TWELVE - A 1
+M03IR309,SMR-L625-D50-Z-2PV-I6-T00 (EC310),BAY TWELVE - A 7
+M03IR901,SMR-L325-D50-Z-2PV-I2-T00 (carrier roller ©),BAY FOUR - E 2
+M03IR902,SMR-L375-D50-Z-2PV-I2-T00 (carrier roller ©),BAY FOUR - E 3
+M03IR904,SMR-L525-D50-Z-2PV-I2-T00 (carrier roller ©),BAY FOUR - E 1
+M03IR905,SMR-L625-D50-Z-2PV-I2-T00 (carrier roller ©),BAY FOUR - D 1
+M03IR965,SMR-L725-D50-Z-2RR-I2-T00 (carrier roller ©),BAY TWO - F 2
+M03KT113,LR-L425-D50-K-2RR-A00-T00 (carrier roller ©),BAY TWO - D
+M03KT115,LR-L625-D50-K-2RR-A00-T00 (carrier roller ©),BAY FOUR - G 2
+M03PU007,LR-L425-D50-Z-2PV-A00-T00-GPU (carrier roller ©),BAY TWELVE - A 3
+M03VU433,LR-L425-D50-Z-2PV-A00-T00-G278 (carrier roller ©),BAY FOUR - E 5
+M05AD001,Screw-on baffle 1/8 inch (baffle ©),BAY FIVE - E 5.3
+M05AD002,Screw-in baffle 1/4 inch (baffle ©),BAY FIVE - E 5.4
+M05AD003,Screw-in baffle 1/8 inch (baffle ©),BAY FIVE - E 5.5
+M05AD005,Screw-in baffle  M5 (pneumatics accessories),BAY THREE - J 6.2
+M05AD020,Flow-control valve GRU-1/8-B (baffle ©),BAY FIVE - E 4.2
+M05MA012,"Festo SMT-8M-PS-24V-K-0,3-M8D PNP 3p M8St (Reed contact ©)",BAY ONE -G 6.1
+M05MA012,"Festo SMT-8M-PS-24V-K-0,3-M8D PNP 3p M8St (Reed contact ©)",Bay one - G 6.1
+M05MA030,Mounting kit SMBR-8-25 (solenoid valve mounting kit ©),BAY FIVE - E 4.4
+M05MV329,MV 3/2 MFHE-3-1/4-B (solenoid valve ©),BAY FIVE - E 3.2
+M05MV513,MV MEBH 5/2-1/8-L-B+3xstr.screwing+2xbaffle (solenoid valve ©),BAY THREE - J 7.2
+M05MV514,MV JMEBH 5/2-1/8 - B (solenoid valve ©),BAY FIVE - E 7.2
+M05MV520,MV-5/2-1/4 inch-M (solenoid valve ©),BAY FIVE - E 3.1
+M05MV527,MV-5/2-1/4 inch-B (solenoid valve ©),BAY FIVE - E 6.1
+M05MV567,MV VUVG-L14-M52-AT-G18-1R8L+3x screw connection straight +2xchoke+baffle (solenoid valve ©),BAY ELEVEN - J 5.2
+M05RD010,"Throttle check valve screw connection  exhaust air 3/8"" ø8 (choke ©)",BAY FIVE - E 5.6
+M05RD013,"Throttle check valve screw connection  exhaust air 1/8"" ø6 (choke ©)",BAY FIVE - E 2.2
+M05RD014,"Throttle check valve screw connection  exhaust air 1/4"" ø8 mm (choke ©)",BAY FIVE - E 4.1
+M05SS031,Threaded fittings angled 1/8 inch ø6 (push-in fitting ©),BAY THREE - J 5.5
+M05SS032,Threaded fittings angled 1/4 inch ø8 (push-in fitting ©),BAY THREE - J 5.6
+M05SS034,Threaded fittings angled 1/8 inch ø8 (push-in fitting ©),BAY THREE - J 5.4
+M05SS035,Screw-in fitting angled 3/8 inch ø8 (push-in fitting ©),BAY THREE - J 5.3
+M05SS618,Threaded fittings straight 1/8 inch ø6 (push-in fitting ©),BAY THREE - J 5.2
+M05SS814,Screw-in fitting straight 1/4 inch ø8 (push-in fitting ©),BAY THREE - G 5.9
+M05SS818,Threaded fittings straight 1/8 inch ø8 (push-in fitting ©),BAY THREE - J 6.1
+M05SS920,"Blind plug G 1/4"" B-1/4 (plug)",BAY FIVE - G 3.2
+M05SV016,Bulkhead-type end connection angled ø4ø4  (push-in fitting ©),BAY FIVE - E 2.1
+M05SV606,Push-in fitting angled ø6 (push-in fitting ©),BAY THREE - J 6.6
+M05SV608,Push-in fitting angled ø8 (push-in fitting ©),BAY FIVE - E 5.1
+M05SV651,Y-connector ø8 (push-in fitting ©),BAY FIVE - E 4.3
+M05SV704,T-connector ø4 (push-in fitting ©),BAY THREE - J 6.4
+M05SV706,T-connector ø6 (push-in fitting ©),BAY THREE - J 6.5
+M05SV708,T-connector ø8 (push-in fitting ©),BAY FIVE - E 4.6
+M05SV811,Reducer ø6 ø4 ((push-in fitting ©),BAY FIVE - E 1.3
+M05SV813,Reducer ø8 ø6 ((push-in fitting ©),BAY THREE - J 6.3
+M05SZ160,"Variable cylinder ø16x stroke2x22,5 with GEA M6 ø4 (round cylinder ©)",BAY FIVE - F 4.1
+M05SZ200,Baffle YSR-16-20-C NR 34573 (baffle (spring/gas/oil) ©),BAY FIVE - E 1.2
+M05WG014,Pressure regulator ST R1_4+MANO+BEF.N204R00+630_11 (pneumatics),BAY FIVE - E 1.1
+M05WG017,Pushbutton switch SDE5-D10-O-Q6-P-M8 (pushbutton switch ©),BAY FIVE - H 6.3
+M05ZH012,Spherical bearing ST D50-63 26N-050-GA (spherical bearing),BAY FIVE - J 2.4
+M05ZH013,"Spherical bearing SCG-M10x1,25 (cylinder mounting ©)",BAY FIVE - J 2.1
+M05ZH018,Swivel mounting ST d25 16N-20-I (05090860),BAY FIVE - J 5.1
+M05ZH065,Spherical bearing SKF SAL 8C M8 AG LEFTNKSS (spherical bearing),BAY FIVE - F 7.2
+M05ZH066,Spherical bearing  SKF SA 8C M8 AG RIGHTCHTSS (spherical bearing),BAY FIVE - F 7.1
+M05ZH097,Spherical bearing  KA5 DIN ISO12240-4 AG (spherical bearing ),BAY FIVE - H 5.5
+M05ZH100,Spherical bearing M10 AG right-hand thread SKF SA10 (CYLINDER ACCESSORIES),BAY FIVE - J 2.3
+M05ZH235,Rod end BRM 12 ball-bearing (cylinder mounting ©),BAY FIVE - J 2.2
+M05ZR029,DSNU-25-125-PPV-A (round cylinder ©),BAY FIVE - F 5.1
+M05ZR225,ø25 H25 mag.CETOP RP52 (round cylinder ©),BAY FIVE - F 6.2
+M05ZR226,ø25 H50 mag.CETOP RP52 24N2A25A050 (round cylinder ©),BAY FIVE - F 7.4
+M05ZR261,DSNU 25 40 PPV MQ (round cylinder ©),BAY FIVE - F 1.1
+M05ZR264,DSEU-40-25-P-A-SA MA=30 (round cylinder ©),BAY FIVE - F 1.2
+M05ZZ714,61M-2P-063A-0212-0300 ISO6431 (Stasto) (round cylinder ©),BAY NINE - B 4
+M06RI067,Deep groove ball bearing  6200 2RSR (ball bearing ©),
+M06SP010,Insert roller bearing UCF 206 RÖG (flange bearing ©),BAY FIVE - G 4 + G 5
+M06SP010-REPLEN,replen holding Insert roller bearing UCF 206 RÖG (flange bearing ©),WSC-DRAWER2
+M06SP023,Flange bearing UFL002 (flange bearing ©),BAY FIVE - G 3.1
+M06SP024,Flange bearing UFL004 (flange bearing ©),BAY FIVE - G 6.1
+M06SP025,Block bearing UP005 (block bearing ©),BAY FIVE - G 6.2
+M06SP026,Block bearing UP004 (block bearing ©),BAY FIVE - G 5.2
+M06SP042,Flange bearing UCFB 205 SLB (flange bearing ©),BAY FIVE - J 4.2
+M06ST008,Curve roller KR 19 PPXA (curve roller ©),BAY FIVE - J 6.1
+M07GE011,RUBBER-BONDED METAL ø=40mm h=30mm (AG_M8 x23 IG_M8x83),BAY FIVE - H 5.2
+M07GE013,RUBBER-BONDED METAL ø25mm h10mm  AG_M6 x18 (06061174),BAY FIVE - J 5.3
+M07GE027,Rubber-bonded metal ø=20mm h=11mm  AG_M6 x18  55 SHORE (rubber-bonded metal),BAY FIVE - H 4.6
+M07GE095,Rubber-bonded metal ø40mm h=40mm 2xIG M8x7 (rubber buffer ©),BAY FIVE - H 5.1
+M07GE117,Rubber-bonded metal ø20mm h5mm AG_M6x18 (rubber buffer ©),BAY FIVE - J 5.2
+M07GE136,Vibration damper ø28 ø13 h=6 (rubber pad ©),BAY FIVE - G 1.2
+M07GE320,VIBRATION BUFFER D ø30x15 (-),BAY FIVE - H 4.5
+M07GE434,Tube TA34-14 SL12 (rubber pad  ©),BAY FIVE - H 5.3
+M07RA150,Wheel poly ø150x20mm (general),BAY FIVE - C 3
+M07RA510,PAS-PU-roller with ball bearing 40x20 (general),BAY FIVE - H 5.4
+M08RR021,"Round belt with hook red Y5,5  L393 PU 75 SCHORE A427 LW-8% PRETEN. (belts ©)",BAY SEVEN - F 4.1
+M08RR190,POLYCORD D 4  190mm ENDLESS (belts ©),BAY SEVEN - F 5.1
+M08RR200,POLYCORD D 4  200mm ENDLESS (belts ©),BAY SEVEN - F 5.2
+M08RR220,Polycord ø4 L220(RT60) (belt / belts ©),BAY SEVEN - F 5.3
+M08RR222,POLYCORD D 5  222mm ENDLESS (belt / belts ©),BAY SEVEN - G 1
+M08RR245,POLYCORD D 5  245mm ENDLESS (belt / belts ©),BAY SEVEN - G 2
+M08TR042,TR  NP2055 loose B40 (belt/belts)- Price per meter (can only be ordered in 50 meter units),BAY SEVEN - A 2
+M08ZR755,Toothed belt 304-8M-10 HTD-CXP III M30 (belts ©),BAY SEVEN - G 6.2
+M08ZR931,Toothed belt HTD Premium 177-3M-15 endless (belts ©),BAY SEVEN - G 6.1
+M08ZR932,Toothed belt HTD Premium 210-3M-15 endless (belts ©),BAY SEVEN - F 5.4
+M23HL010,Guide shoe LSE-50-Z (linear system Heron ©),BAY FIVE - F 2.2
+M23HL011,Guide shoe LSE-50-E (linear system Heron ©),BAY FIVE - F 2.3
+Q0000150,GIGANT - Maintenance kit combi. v.; 400994.00010,BAY FIVE - K 1.2
+Q0000619,"Platform S33/50 DHH B=0759 A=0500 S12  1.4104/SBR",BAY TEN - C
+Q0000637,GIGANT - Compressing spring; 0101-013000-08,BAY SEVEN - J 3.4
+Q0000638,GIGANT - Tension spring; 0101-013000-14,BAY SEVEN - J 3.7
+Q0000640,GIGANT - Buffer; 0401-010000-01,BAY SEVEN - J 1.6
+Q0000641,GIGANT - Stripper left; 2901-080100-03,BAY SEVEN - J 4.3
+Q0000642,GIGANT - stripper right; 2901-080100-04,BAY SEVEN - J 2.1
+Q0000646,GIGANT - Sliding carriage; 1620-012000-00,BAY SEVEN - J 5.1
+Q0000647,GIGANT -  Head f. pressurecam; 2902-010310-02,BAY SEVEN - J 4.2
+Q0000648,"GIGANT - Heating  (24 V); 2902-013000-00",BAY SEVEN - J 4.1
+Q0000649,"GIGANT - Axialflowfan 24 V/DC / 0,75 W; ME 1759",BAY SEVEN - J 5.2
+Q0000650,GIGANT - Temperature control; ME 6286,BAY SEVEN - J 4.8
+Q0000651,GIGANT - Tension spring; NT 1392,BAY SEVEN - J 3.10
+Q0000656,GIGANT - Tension spring; NT 567,BAY SEVEN - J 3.5
+Q0000657,GIGANT - Tension spring; NT 664,BAY SEVEN - J 3.11
+Q0000658,GIGANT - Tension spring; NT 676,BAY SEVEN - J 1.4
+Q0000758,NERAK - spring clip AG Ø08/12x10,BAY FIVE - D 4
+Q0000782,NERAK - bar part long GBK33/50 GBK33/50 Ø16/Ø8x292,BAY EIGHT - C 2
+Q0000783,NERAK - bar part short GBK33/50 GBK33/50 Ø16/Ø8x219,BAY SIX - B 1
+Q0000784,NERAK - Rod center partGBK33/50 Ø25x0450; 57109,BAY SIX - B 2
+Q0000786,NERAK - Rod  Ø08/12x0600 GFK-Polyester white; 00015062***Replaced by Q0006864***,BAY SIX - F 2
+Q0000787,NERAK - Hose 13x3x0560 PVC clear; 00019539***Replaced by Q0006868***,BAY SIX - E 2
+Q0000805,GIGANT-threaded bolt f. dicharger,BAY SEVEN - J 2.3
+Q0000806,GIGANT - spring sheet,BAY SEVEN - J 2.2
+Q0000815,GIGANT - ribbed belt,BAY SEVEN - J 5.3
+Q0000831,GIGANT -  Compression spring 0401-010000-05,BAY SEVEN - J 3.3
+Q0000833,"GIGANT - Tensioning pulley, cpl.;1610-090120-00",BAY SEVEN - J 4.7
+Q0000835,"MOSCA - Deflection pulley, cpl. 2604-150100-00",BAY SEVEN - J 4.4
+Q0000836,"MOSCA - Deflection pulley, cpl.; 2604-150200-00",BAY SEVEN - J 4.5
+Q0000838,"GIGANT - Tensioning pulley, cpl.; 4111-100110-00",BAY SEVEN - J 4.6
+Q0000839,GIGANT - Threaded bolt f. discharder; 4150-080320-00,BAY SEVEN - J 1.5
+Q0000840,GIGANT - Proximity switch; ME 1841,BAY SEVEN - J 7.1
+Q0000841,GIGANT - Proximity switch; ME 1927,BAY SEVEN - J 7.2
+Q0000842,"GIGANT - Motor 230/400V 0,37kW; ME 3346",BAY THREE - L 1
+Q0000843,GIGANT -  I/O Modul; ME 3849,BAY SEVEN - J 1.7
+Q0000844,GIGANT - Keyboard module CPM 100;ME 4428,BAY SEVEN - J 2.5
+Q0000845,GIGANT - motor 60 V/DC; ME 4531,BAY NINE - A 1
+Q0000846,GIGANT - Gear motor 24V/DC; ME 4927,BAY NINE - A 2
+Q0000847,GIGANT - motor 24V / DC; ME 4929,BAY NINE - A 4
+Q0000855,GIGANT - Tension spring; NT 1999,BAY SEVEN - J 1.3
+Q0000858,GIGANT - Copression spring; NT 3077,BAY SEVEN - J 3.9
+Q0000859,GIGANT - Compression spring; NT 3078,BAY SEVEN - J 3.8
+Q0000860,GIGANT - Conveyor belt (grooved);NT 3087,BAY SEVEN - J 6.3
+Q0000861,GIGANT - Conveyor belt (grooved);NT 3088,BAY SEVEN - J 6.2
+Q0000862,GIGANT - Conveyor belt (grooved);NT 3089,BAY SEVEN - J 6.1
+Q0001039,"NERAK - Idler unit short, S253 /50, M12, Ø12,5 St galv. Verz/PA; 11-1529-01; 00025067",BAY EIGHT - A 3
+Q0001057,NERAK - reflector Sick PL40A SICK PL40A 40x8x60,BAY THREE - E 1.3
+Q0001182,GIGANT - compression spring; NT 2058,BAY SEVEN - J 3.6
+Q0001186,GIGANT - compression spring; NT 659,BAY SEVEN - J 3.1
+Q0001187,GIGANT - compression spring; NT 663,BAY SEVEN - J 1.1
+Q0001590,GIGANT - Compression spring,BAY SEVEN - J 1.2
+Q0001591,GIGANT - Compression spring; NT661,BAY SEVEN - J 3.2
+Q0001614,NERAK - Platformholder 33 L-E EH POM black; 13-1077-01; 00000142***Replaced by Q0006850***,BAY FIVE - D 5
+Q0001615,NERAK - Platformholder 33 L POM black; 13-1001-01; 00000134***Replaced by Q0006843***,BAY SIX - C 3
+Q0001616,NERAK - Platformholder 33 L/R-M POM black; 13-1002-01; 00000135***Replaced by Q0006844***,BAY FIVE - D 3
+Q0001617,NERAK - Platformholder 33 R POM black; 13-1003-01; 00000136***Replaced by Q0006845***,BAY SIX - C 2
+Q0001618,NERAK - Platformholder 33 R-E EH POM black; 13-1078-01; 00000143***Replaced by Q0006851***,BAY FIVE - D 6
+Q0001619,NERAK - Platformholder 66 H L-E POM black; 00001739***Replaced by Q0006856***,BAY FIVE - D 8
+Q0001620,NERAK - Platformholder 33 H L/R-M Delrin 100 ST; 00000137***Replaced by Q0006846***,BAY SIX - F 3
+Q0001621,NERAK - Platformholder 66 H R-E POM black;  00000138***Replaced by Q0006847***,BAY FIVE - D 7
+Q0001622,NERAK - Rod Ø12x102 GFK Polyester white; 00016198***Replaced by Q0006866***,BAY FIVE - D 2
+Q0001623,"NERAK - rod fastener Ø25/18/11,45x11",BAY FIVE - D 9
+Q0001625,"NERAK - Guiding unit, FS253/50, M12, Ø12,5 St galv.verz/PA; 12-1310-01; 00037500",BAY EIGHT - A 1
+Q0001626,"NERAK - Guiding unit long, FS253/50, M12, Ø12,5 St galv.verz/PA; 12-1311-01; 00037504",BAY EIGHT - B 2
+Q0001628,NERAK - Reflex sensor Wenglor HD12PCT3S745; 00002968,BAY ONE - G 2.2
+Q0001672,GIGANT - Safety switch 50 N; ME 6740,BAY SEVEN - J 2.4
+Q0001703,MTK - Gripping pliers; Dr.Nr. 59.057.002.02,BAY 10 - A 1
+Q0001704,MTK - Gripper bar; Dr. Nr. 59.057.002.12,BAY TEN - A 2
+Q0001705,MTK - Crossbar I; Dr.Nr. 59.057.002.17,BAY FIVE - H 3.3
+Q0001706,MTK - Crossbar II; Dr.Nr. 59.057.002.18,BAY FIVE - H 3.4
+Q0001707,MTK - End stop element; Dr.Nr. 59.057.002.20,BAY FIVE - H 3.2
+Q0001708,MTK - Connecting rod; Dr.Nr. 59.057.002.21,BAY FIVE - H 2.4
+Q0001709,MTK - Spacer disk; Dr.Nr. 59.057.002.26,BAY FIVE - H 3.1
+Q0001710,MTK - Linear drive; DGB-40-1250-PPV-A-B-D2; 175136,BAY NINE - B 4
+Q0001711,"MTK - Way measuring system MLO-POT-1250-TLF; 152633",BAY NINE - B 6
+Q0001712,"MTK - Proportional directional control valve MPYE-5-1/4-010-B;151694",BAY FIVE - E 7.1
+Q0001713,MTK - End position controller SPC11-POT-TLF; 192216,BAY THREE - J 7.1
+Q0001714,MTK - Socket cable KMPV-SUB-D-15-5; 177673,BAY ONE -E 2
+Q0001716,"MTK - Maintenance device combination LFR-1/2-D-MIDI-KG;185787",WORKSHOP
+Q0001718,"MTK - Solenoid valve 5/3-way valve SOV-26-SOS-CC;7010022100",BAY FIVE - F 4.2
+Q0001719,MTK - Standard zylinder DNC-32-80-PPV-A; 163308,BAY FIVE - F 2.1
+Q0001721,MTK - Rod end SGS-M10; 9256,BAY FIVE - G 2.2
+Q0001722,"MTK - Flexo coupling FK-M10x1,25; 6140",BAY FIVE - H 2.2
+Q0001723,MTK -Tension set BR 150 20x30,BAY FIVE - H 4.2
+Q0001724,MTK - Flanged bushing BB2017DU,BAY FIVE - H 2.3
+Q0001725,MTK - Guide rail ULC 43,BAY NINE - B 2
+Q0001727,MTK - Guide carriage  NKE43,BAY FIVE - H 1.2
+Q0001728,MTK - Guide carriage  NUE43,BAY FIVE - H 6.1
+Q0001729,"MTK - ""Belt clamping plate rework"", Drawing Nr. 59.057.003.15",BAY FIVE - H 3.6
+Q0001730,"MTK - Feed shaft, Dr.Nr. 59.057.003.16",BAY FIVE - G 2.1
+Q0001731,MTK - Drive shaft; Dr.Nr. 59.057.003.24,BAY TWO - F  3
+Q0001732,MTK - Drive tooth lock washer P40-8M-50; Dr.Nr. 59.057.003.25;,BAY FIVE - J 7.2
+Q0001733,MTK - Deflection tooth wash locker P40-8M-50; Dr.Nr. 59.057.003.28,BAY FIVE - J 7.1
+Q0001734,MTK - Deflection shaft; Dr.Nr. 59.057.003.30,BAY TWO - F 4
+Q0001735,"MTK - Roller bolt, centrical; Dr.Nr. 59.057.003.32",BAY FIVE - H 3.5
+Q0001736,MTK - Eccentric bolt short; Dr.Nr. 59.057.003.33,BAY FIVE - H 3.7
+Q0001738,"MTK - Proximity sensor SME-8M-DS-24V-K-0,3-M8D; 543861",BAY ONE - F 1.6
+Q0001740,MTK - Compact cylinder ADVU-25-50-A-P-A; 156615,BAY FIVE -  E 2.4
+Q0001741,MTK - Bevel gear motor KH47 CMP71M/BP/KY/RH1M/SB1,BAY EIGHT - E 3
+Q0001742,MTK - Recirculating ball bearing guide MHTG15C2R480HS2,BAY FIVE - J 4.1
+Q0001743,MTK - HTD toothed belt HTD-LL-8M-50; 10 Meter,BAY SEVEN - A 1
+Q0001744,MTK - Groove ball bearing; 60008.2RS,BAY FIVE - L 3.5
+Q0001745,"MTK - Circlip DIN 472; DM68x2,5",BAY FIVE - H 2.1
+Q0001746,MTK - Guide roller FSTH 80x25/25-15 K,BAY FIVE - C 5
+Q0001747,MTK - Tension set BR 110 35x47,BAY FIVE - H 4.1
+Q0001748,MTK - Pillow block bearing unit PASE35-N,BAY FIVE - J 1
+Q0001749,GIGANT - Drive motor 24 V/DC brushless; ME 5041,BAY NINE - A 3
+Q0001751,Mettler-Toledo - Weighing Plattform PBA220-BC60B; 72195855,BAY TEN - F 1
+Q0001763,HaRo - Quickly with chain wheel carrying idler; QYK,BAY NINE - B 1
+Q0001777,NERAK - Rubber block chains S33/50 L=14520 C=1452 B=759 SBR; 1160-11091,BAY EIGHT - C 1
+Q0001778,"NERAK - Plattformchain S33/50 B=759 A=792 SBR;00-1145-02",BAY SIX - A 3
+Q0001779,"NERAK -  Guding unit short FS253/50 M12, DM12,5 ST galv.verz./PA",BAY EIGHT - A 2
+Q0001780,"NERAK - Guiding unit long FS253/50 M12, DM12,5 St. galv.verz./PA; 12-1311-02",BAY EIGHT - B 1
+Q0001781,"NERAK -  Idler unit short,, S253/50, M12, DM12,5 St. galv. verz./PA; 11-1526-02",
+Q0001782,"NERAK - Conveyor belt endless GB=700 GL=2090+/- 0,3% PVC, schwarz+urethan/PET; 1009-10151",BAY FOUR - A
+Q0001784,"NERAK -  Idler drum GF complete DM32, GB=600 1.0570 galv.verz.; 43-1072-09",BAY FOUR - E 7
+Q0001785,"NERAK - Support roller 50x1,5/12IGM8x15, DM50 EL=645 RL=648 St. galv.verz.; 1025-00085",BAY FOUR - F 1
+Q0001786,NERAK - Rubber block chains S33/50   L=17424 C=1452 B=759 SBR; 1160-11137,BAY EIGHT - D
+Q0001787,NERAK - Rubber block chains S33/50   L=6468 C=1617 B=759 SBR; 1160-00634,BAY SIX - B 1
+Q0001788,NERAK - Rubber block chain S33/50 L=6270 C=1254 B=561 SBR; 1160-11092,BAY SIX - A 1
+Q0001789,"NERAK - Plattform S33/50 DHH B=561 A=700 S12  1.4104/SBR; 37972;",BAY TEN - B
+Q0001790,"NERAK - Plattformchain S33/50 B=561 L=594 SBR;00-1145-10",BAY SIX - A 2
+Q0001791,NERAK -Rod center part GBK33/50 Ø25x650  MzdK=480 1.4104; 40-1004-07,BAY SIX - B 3
+Q0001792,NERAK - Rod  Ø12x0800 GFK-Polyester white; 1002-00540,BAY SIX - F 1
+Q0001793,NERAK - hose 13x3x760 PVC clear; 1018-00279,BAY SIX - E 1
+Q0001794,NERAK - Rubber block chains S33/50 L=11352 C=1419 B=561 SBR; 1160-11093,BAY SIX - D 1
+Q0001800,"NERAK - Drive drum GF, complete, SA37, Ø80 GB=600 EL=654 1.0570-lackiert; 42-1079-05",BAY SIX - G 5
+Q0001801,HaRo - QF thread foo M20x100 with 2 nuts galvanized.; QFGF,BAY SEVEN - E 8.2
+Q0001802,"HaRo - Chain circle 1/2"" 28 elements closed T95; KK1228",BAY FIVE - H 1.1
+Q0001803,HaRo - Chain 1/2 x 5/16 reinforced; KE12VS,BAY FIVE - G 7.2
+Q0001804,HaRo - Chain lock 1/2x5/16 reinforced; KS12VS,BAY FIVE - F 3.3
+Q0001805,"HaRo - Chain wheel basic 1/2 Z13 d=20H7+Nut+thread M8;KEB12132027",BAY FIVE - G 7.1
+Q0001806,"HaRo - SEW-engine DRS 71S4 (0,37kw); MOT",BAY ONE - L 2
+Q0001807,HaRo - Quickly without chain wheel carrying idler; QY,BAY FOUR - F 2
+Q0001807,HaRo - Quickly without chain wheel carrying idler; QY,BAY TEN - D1
+Q0001808,HaRo - FX thread foot M16x100 with 2nuts galvanized; FXGF,BAY SEVEN - E 8.1
+Q0001809,HaRo - Flange-wheel D=125 B=52 KGL=6204 DA=140; SKR125-002,BAY FIVE - C 1
+Q0001810,HaRo - Wheel Arrestor for SPK 125; RF125,BAY FIVE - H 7.1
+Q0006857,NERAK - Light barrier; 0002952,BAY ONE - G 4.1
+Q0010078,AMBAFLEX - Transition guide to 3rd sprocket ; 30010465SKU,BAY ELEVEN - A 2
+Q0010081[1],AMBAFLEX - Bearing ball H19 steel 1 OF 20; 81500001SKU,BAY ELEVEN - B 1
+Q0010082[1],AMBAFLEX - Spacer POM yellow 1 OF 20; 81310303SKU,BAY 11 - B 1
+Q0010084,AMBAFLEX - Chain 5 meter in a box; 81500099SKU,BAY ELEVEN - J 1
+Q0011776[1],AMBAFLEX - TPS 6 HF RL POM 1 OF 20; TPS 600; 31010663SKU20,BAY ELEVEN - L 2
+Q0011777,AmbaFlex - 3rd sprocket; z=19 3/4'' DIN 8187 B20; 50102231SKU,BAY ELEVEN - A 4 
+Q0021370,"Nerak -  drive drums. GF, complete; Ø80, SA37, GB = 600, EL = 654; 00060447",BAY FOUR - G 5
+Q0026510,AMBAFLEX - Shaft 3rd sprocket AISI304 D20 x 110; 10110372SKU,BAY ELEVEN - A 3
+Q0033099,"Filter-controller, junction G1/2, set pressure 0.05-0.85 MPa",BAY ELEVEN - J 2
+Q0033099-[Sub],SMC-Q0033099-Filter-NoControl [G1/2]_(SetPressure 0.05-0.85MPa) [substitute],BAY ELEVEN - J 2
+Q0038016,Q0038016,BAY FOUR - D 1
+Q0334276,Q0334276,BAY ELEVEN - B 1
+SP6002Z,SP6002Z,WORKSHOP DRAWERS
+SP6202RS,6202ZZ/RS SERVICE KIT_CONT. 2X6202XX BEARINGS-2X15MMCCLIP,WSC-S3-B2
+SP63000RS,63000/RS - BEARINGS,WSC-S3-B1
+SP6304RS-v2,"63042RS - BEARING SERVICE KIT, SINGLE BEARING ONLY.",WSC-S3-B4
+Z0004997,Closing roller Ø200 (foam-plastic roller bonded),BAY FIVE - B 1
+Z0014607,Cylinder ø16  stroke16 (cylinder ø16 stroke 16),WORKSHOP - R0D6
+Z0014685,Roller ø25 complete (roller ø25),WORKSHOP - R0D7
+Z0015568,Segmentation top part RT60-90 FT35+,WORKSHOP - R0D7
+Z0019766,Brake bar RT60 complete (brake bar RT60 complete),WORKSHOP - R2S4.2
+Z0019767,Brake bar RT90 complete (brake bar RT90 complete),WORKSHOP - R2S4.2
+Z0024357,TRB segmentation RT60 FT35+ (live roller conveyor ©),BAY ELEVEN - C 4
+Z0024705,STRB segmentation RT60 (accumulating roller conveyor ©),WORKSHOP - R2S4.1
+Z0024934,Roller conveyor cover RT60 FT35+ (injection molding part ©),BAY SEVEN - H 5
+Z0025584,"Pull spring Da6,3 d0,7 L029,3 (pull spring and blank ©)",BAY FIVE - F 3.2
+Z0025607,T-piece air supply 8-8-6 (push-in fitting ©),BAY FIVE - E 4.5
+Z0028610,Pressure roller FT35+ (pressure roller FT35+),BAY SEVEN - E 7.1
+Z0030154,Deflection roller RB drive FT35+ (deflection roller),BAY SEVEN - H 7.1
+Z0030505,Conveying system accessories FT35+ ©; profile end N425 FT35+; -; -,BAY TWELVE - A 5
+Z0030507,"Conveying system accessories FT35+ ©Profile end N625 FT35+",BAY EIGHT - B 3
+Z0033394,Supporting blade B19 N425 (belt diverter),BAY SEVEN - D 3
+Z0033398,Lifting cylinder ø40 stroke 25 (belt diverter),BAY FIVE - F 6.1
+Z0033539,Belt pulley Poly-V (belt diverter©),BAY ELEVEN - H 3.2
+Z0038165,Blade support (stopper),BAY FIVE - J 3.2
+Z0039220,Blade B19 N625 FT35+ (belt diverter),BAY SEVEN - C 1
+Z0051535,Pop Up deflection roller  short (deflection),BAY SEVEN - H 7.2
+Z0051537,Pop Up deflection roller  long (deflection),BAY SEVEN - H 7.3
+Z0053723,Roller ø50 B429 T8Z18 with safety ring (roller),BAY FOUR - B 8
+Z0056061,TRB segmentation RT90 FT35+ (live roller conveyor ©),BAY ELEVEN - C3
+Z0056102,Roller conveyor cover RT90 FT35+ (injection moulded part ©),BAY SEVEN - K 2
+Z0057520,STRB segmentation RT90 (accumulating roller conveyor ©),WORKSHOP - R2S4.3
+Z0062353,Roller conveyor cover shortened (injection moulded part ©),BAY FIVE - E 5.2
+Z0069956,Roller dismantling aid (installation tools ©),WORKSHOP
+Z0079139,Belt diverter plastic cover 3 (injection molding part ©),BAY SEVEN - H 4.1
+Z0085991,TR installation kit BTS-6 230V 40mm (installation tools ©),WORKSHOP
+Z0100329,FB FAK return roller N425 FT35+ (FAK),BAY FOUR - G 6
+Z0100331,FB FAK return roller N625 FT35+ (FAK),BAY FOUR - D 6
+Z0102143,"Deflection rollers + bearing, steel (deflection rollers)",BAY SEVEN - H 2.1
+Z0103067,Supporting blade B46.4 N625 (belt diverter),BAY SEVEN  -B 2
+Z0103068,Poly-V-belt PJ18 L 1600 (belts ©),BAY SEVEN - E 4
+Z0103780,Blade B46.4 S2 N425 FT+ (RA),BAY SEVEN - D 2
+Z0106415,Drive drum N425 D79 FT+ (drive drum),BAY FOUR - H 3
+Z0108468,Deflection roller FUN N625 FT+ (deflection roller),BAY FOUR - H 5
+Z0110724,Drive drum N525 D79 FT+ (drive drum),BAY SIX - G 1
+Z0110725,Drive drum N625 D79 FT+ (drive drum),BAY SIX - G 2
+Z0110947,Deflection roller FUN N425 FT+ (deflection roller),BAY FOUR - F 7
+Z0110948,Deflection roller FUN N525 FT+ (deflection roller),BAY FOUR - H 4
+Z0115015,FFV deflection roller N625,BAY FOUR - F 3
+Z0115015,FFV deflection roller N625,BAY SIX - B 0
+Z0115017,FFV tensioner roller N625 (FFV),BAY FOUR - F 5
+Z0119353,Blade B46.4 S135 N425 FT+ (RA),BAY SEVEN  -B 1
+Z0138861,FB drive roller POLY-V N425 FT+ (FUS-FUZ),BAY FOUR - E 8
+Z0138863,FB drive roller POLY-V N525 FT+ (FUS-FUZ),BAY FOUR - F 6
+Z0140928,"Deflection roller roller conveyor tensioner FT+ (roller conveyor tensioner)!ATTENTION: DEFLECTION PULLEY ONLY AVAILABLE IN STEEL!",BAY SEVEN - H 1
+Z0143836,Deflection roller deflection FT+ (deflection),BAY SEVEN - E 7.2
+Z0145835,"Deflection roller deflection TG 45° FT+ (deflection)",BAY SEVEN - H 2.2
+Z0154173,Cushioning belt green L436 B50 loose FT+SLC (belts ©),BAY SEVEN - F 2.2
+Z0154182,Cushioning belt green L636 B50 loose FT+SLC (belts © ),BAY SEVEN - F 2.1
+Z0154183,Damping belt green L693 B50 loose FT+SLC,Bay Seven - H 3
+Z0157209,Cushioning belt green L493 B50 loose FT+SLC (belts ©),BAY SEVEN - F 1.2
+Z0157646,Cushioning belt green L336 B50 loose FT+SLC (belts ©),BAY SEVEN - F 3.2
+Z0157647,Cushioning belt green L386 B50 loose FT+SLC (belts ©),BAY SEVEN - F 3.1
+Z0157648,Cushioning belt green L536 B50 loose FT+SLC (belts ©),BAY SEVEN - F 1.1
+Z0176533,Guide rail support H23 RAL9006 FT+ (injection molding part ©),BAY ELEVEN - J 6.2
+Z0176556,Absorption mat 461 UL/2 N525 165x590x20 (plastic plate ©),BAY SEVEN - F 5.5
+Z0176718,GFR-200-1300-86 to 88kg (gas spring ©),BAY TWO - A 3
+Z0178069,Belt pulley T50 D85 (RBA),BAY SEVEN - E 9.2
+Z0185528,Return roller carrier d 25 (conveyor accessory FT35+),WORKSHOP
+Z0186770,Belt pulley T50 D100 (RBA),BAY SEVEN - E 9.1
+Z0187924,RSP-SW400-F400-S-FT+ (roller conveyor tensioner (RSP)),BAY 10 - XX
+Z0189469,Conveyor belt tensioner roller N425 (conveyor belt drive (FBA)),BAY FOUR - E 4
+Z0189473,FBA return roller N425 (conveyor belt drive (FBA)),BAY FOUR - B 7
+Z0189545,FBA return roller N525 (conveyor belt drive (FBA)),BAY FOUR - D 5
+Z0189550,Conveyor belt tensioner roller N525 (conveyor belt drive (FBA)),BAY FOUR - H 2
+Z0190000,FBA drive drum  D120 N525 rubberized FT+ (conveyor belt drive (FBA)),BAY FOUR - J 4
+Z0190004,FBA drive drum  D120 N425 rubberized FT+ (conveyor belt drive (FBA)),BAY SIX - G 3
+Z0203864,Roller for FUM-S-O-425 FT+ (conveyor belt deflection (FUM)),BAY FOUR - H 6
+Z0204629,FBA drive drum SA57 D120 N425 rubberized FT+ (FBA),BAY SIX - G 4
+Z0208251,Supporting blade B19 N425 S70 (belt diverter),BAY SEVEN - D 1
+Z0211355,Blade B19 N425 S135 (belt diverter),BAY SEVEN - C 2
+Z0214465,Roller for FUM-S-O-525 FT+ (FUM),BAY FOUR - H 7
+Z0214539,Roller for FUM-S-O-625 FT+ (FUM),BAY FOUR - H 1
+Z0232334,VER drive drum D79 N525 rubberized (drive drum),BAY FOUR - J 2
+Z0232355,VER Hubwippe Antrieb Distanz (Distanz),Workshop - R1S4
+Z0234883,Return roller_25_complete (conveying system accessories FT35+),BAY 15 
+Z0256269,"Tensioning nut flat 4,5mm (belt diverter ©)",BAY FIVE - H 6.4
+Z0258647,"Toothed belt pulley HTD3M-15 Z24, steel design (toothed belt pulley ©)",BAY FIVE - G 1.1
+Z0264889,"Reduction gear RA v0.6 steel design (belt diverter)",BAY FIVE - J 3.3
+Z0271443,Reduction gear RA v0.3 steel design (belt diverter),BAY FIVE - J 3.4
+Z0286423,FFV drive drum N625 ø77 0.75kW rubberized (FFV),BAY FOUR - J 3
+Z0292219,Connecting rod vertical sorter (VER),BAY TWO - F 5
+Z0382922,"Scanner mounting Sick 6xx H200, galvanized (mounting)",BAY THREE - A 1
+Z0386132,FBA drive drum D120 N425 rubberized FT+ (FBA),BAY TWELVE - B 1
+Z0442147,RUM-T00-K-G2-FT+ (roller conveyor deflection (RUM)),WORKSHOP
+Z0442147,RUM-T00-K-G2-FT+ (roller conveyor deflection (RUM)),BAY NINE - A 6
+Z0446930,Deflection roller RUM G2 FT+ (Deflection),WORKSHOP
+Z0498168,Valve 3-2 + Hose (Valve Replacement Kit ©),WORKSHOP - R0D6
+Z0549201,Cover profile L1100 RAL5010 S FT+ (various plastic profiles ©),BAY FIFTEEN - LS1
+Z0688615,Replacement valve complete CSD (CSD),BAY ELEVEN - J 2
+Z0772808,FBAAT-U-N425-D120-DW40-WA-D20-M-FT+ (-),BAY TWELVE - A 4
+Z1104576,Adapter plate with solenoid valve VUVS-L20-M52-AD-G18-F7-1C1 (adapter assembly),BAY FIVE - E 2.3
+Z1192909,Adapter plate with solenoid valve MV VUVS-L20-B52-D-G18-F7-1C1 (adapter assembly),BAY FIVE - E 7.2
