@@ -28,6 +28,52 @@ def load_data():
 st.markdown("""<style>.main-header {background-color: #FFD100; padding: 1rem; border-bottom: 3px solid black; color: black;}</style>""", unsafe_allow_html=True)
 st.markdown('<div class="main-header"><h1>📊 OPERATIONS DASHBOARD</h1></div>', unsafe_allow_html=True)
 
+# Custom CSS for KPI cards
+st.markdown("""
+    <style>
+    .kpi-card {
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        border: 1px solid #e9ecef;
+        margin-bottom: 10px;
+    }
+    .kpi-title {
+        font-size: 16px;
+        color: #6c757d;
+        margin-bottom: 5px;
+        font-weight: 600;
+    }
+    .kpi-value {
+        font-size: 32px;
+        font-weight: bold;
+        color: #212529;
+    }
+    .kpi-delta {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+def display_kpi_card(title, value, delta=None, delta_color="normal"):
+    delta_html = ""
+    if delta:
+        color = "green" if delta_color == "normal" else "red"
+        # Simple logic for inverse color if needed, but strictly following requirement for styling
+        # Assuming delta is a string or number
+        delta_html = f'<div class="kpi-delta" style="color: {color};">{delta}</div>'
+
+    st.markdown(f"""
+        <div class="kpi-card">
+            <div class="kpi-title">{title}</div>
+            <div class="kpi-value">{value}</div>
+            {delta_html}
+        </div>
+    """, unsafe_allow_html=True)
+
 df_reports, df_reactives, df_inventory = load_data()
 
 if df_reports is None or df_reports.empty:
@@ -39,16 +85,21 @@ tab1, tab2, tab3, tab4 = st.tabs(["📈 Overview", "🔎 Asset Reliability", "�
 # TAB 1: OVERVIEW
 with tab1:
     kpi1, kpi2, kpi3, kpi4 = st.columns(4)
-    kpi1.metric("Total Shift Reports", len(df_reports))
     
     total_dt = df_reactives['downtime'].sum() / 60 if not df_reactives.empty else 0
-    kpi2.metric("Total Downtime (Hrs)", f"{total_dt:.2f}")
-    kpi3.metric("Reactive Events", len(df_reactives))
     
     # Calculate Availability (Mock calculation based on 12hr shifts)
     total_shift_hours = len(df_reports) * 12
     availability = ((total_shift_hours - total_dt) / total_shift_hours * 100) if total_shift_hours > 0 else 100
-    kpi4.metric("Tech Availability %", f"{availability:.1f}%")
+
+    with kpi1:
+        display_kpi_card("Total Shift Reports", len(df_reports))
+    with kpi2:
+        display_kpi_card("Total Downtime (Hrs)", f"{total_dt:.2f}")
+    with kpi3:
+        display_kpi_card("Reactive Events", len(df_reactives))
+    with kpi4:
+        display_kpi_card("Tech Availability %", f"{availability:.1f}%")
     
     if not df_reactives.empty:
         c1, c2 = st.columns(2)
@@ -74,22 +125,26 @@ with tab2:
     if not filt_df.empty:
         # Reliability Metrics
         m1, m2, m3, m4 = st.columns(4)
-        m1.metric("Breakdown Count", len(filt_df))
         
         avg_dt = filt_df['downtime'].mean()
-        m2.metric("MTTR (Mean Time To Repair)", f"{avg_dt:.1f} min")
         
         # MTBF Estimate (Days between failures)
         filt_df['date'] = pd.to_datetime(filt_df['date'])
+        mtbf_display = "N/A (Need >1 failure)"
         if len(filt_df) > 1:
             sorted_dates = filt_df['date'].sort_values()
             diffs = sorted_dates.diff().dt.total_seconds() / (3600*24) # in days
             mtbf = diffs.mean()
-            m3.metric("MTBF (Est. Days)", f"{mtbf:.1f} days")
-        else:
-            m3.metric("MTBF", "N/A (Need >1 failure)")
+            mtbf_display = f"{mtbf:.1f} days"
 
-        m4.metric("Total Cost (Est @ £50/hr)", f"£{(filt_df['downtime'].sum()/60)*50:.0f}")
+        with m1:
+             display_kpi_card("Breakdown Count", len(filt_df))
+        with m2:
+             display_kpi_card("MTTR (Mean Time To Repair)", f"{avg_dt:.1f} min")
+        with m3:
+             display_kpi_card("MTBF (Est. Days)", mtbf_display)
+        with m4:
+             display_kpi_card("Total Cost (Est @ £50/hr)", f"£{(filt_df['downtime'].sum()/60)*50:.0f}")
 
         st.markdown("### 📜 Failure Log")
         st.dataframe(
@@ -106,8 +161,10 @@ with tab3:
     low_stock = df_inventory[df_inventory['stock_level'] <= df_inventory['min_stock_level']]
     
     k1, k2 = st.columns(2)
-    k1.metric("Total SKUs", len(df_inventory))
-    k2.metric("Items Below Min Level", len(low_stock), delta_color="inverse")
+    with k1:
+        display_kpi_card("Total SKUs", len(df_inventory))
+    with k2:
+        display_kpi_card("Items Below Min Level", len(low_stock), delta=f"{len(low_stock)} items low", delta_color="inverse")
     
     if not low_stock.empty:
         st.error(f"⚠️ REORDER ALERT: {len(low_stock)} items are below minimum stock levels!")
